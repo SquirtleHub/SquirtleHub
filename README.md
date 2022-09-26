@@ -1,9 +1,9 @@
 ![MasterHead](https://i.4cdn.org/wg/1664056611515033.jpg)
-<h1 align="center">Hey , Im SAAD</h1>
+<h1 align="center">YO , Im SAAD</h1>
 <h3 align="center">42 Berlin Student</h3>
 <img align="right" width="250" id="animated-gif" src="https://c.tenor.com/XXAXt1WWm3YAAAAC/pepe-hack-hack.gif" alt="cheese burger gif" />
 
-<p align="left"> <a href="https://twitter.com/shellgoblin" target="blank"><img src="https://img.shields.io/twitter/follow/shellgoblin?logo=twitter&style=for-the-badge" alt="shellgoblin" /></a> </p>
+
 
 - 👨‍💻 I’m currently working on **RidOf AI Project**
 
