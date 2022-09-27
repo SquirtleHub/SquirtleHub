@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently working on **RidOf AI Project**
 
-- 📝 And rn I'm learning about **AI , and cyber sercurity**
+- 📝 And rn I'm learning about **AI , and cyber security**
 
 - 📫 How to reach me **Business.Peepos@gmail.com**
 
