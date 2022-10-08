@@ -1,7 +1,7 @@
 ![MasterHead](https://i.4cdn.org/wg/1664056611515033.jpg)
 <h1 align="center">YO , Im SAAD</h1>
 <h3 align="center">42 Berlin Student</h3>
-<img align="right" width="250" id="animated-gif" src="https://c.tenor.com/XXAXt1WWm3YAAAAC/pepe-hack-hack.gif" alt="cheese burger gif" />
+<img align="right" width="200" id="animated-gif" src="https://cdn.7tv.app/emote/60e0ec549db74f240c4c0c5b/4x.webp" alt="nerd" />
 
 
 
