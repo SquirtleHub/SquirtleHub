@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shellgoblin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shellgoblin" height="30" width="40" /></a>
-<a href="https://instagram.com/sazzeddi.op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sazzeddi.op" height="30" width="40" /></a>
+<a href="https://instagram.com/squirtle.op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sazzeddi.op" height="30" width="40" /></a>
 <a href="https://discord.gg/YGp3zHe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YGp3zHe" height="30" width="40" /></a>
 </p>
 
