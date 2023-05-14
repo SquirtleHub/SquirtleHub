@@ -1,7 +1,7 @@
 
 <h1 align="center">Yo , Im SAAD</h1>
 <h3 align="center">42 Berlin Student</h3>
-<img align="right" width="200" id="animated-gif" src="https://cdn.7tv.app/emote/60e0ec549db74f240c4c0c5b/4x.webp" alt="nerd" />
+
 
 
 
