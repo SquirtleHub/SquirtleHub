@@ -9,7 +9,6 @@
 
 - 📝 And rn I'm learning about **cyber security**
 
-- 📫 How to reach me **Business.Peepos@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
