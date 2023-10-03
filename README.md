@@ -5,9 +5,7 @@
 
 
 
-- 👨‍💻 I’m currently working on **RidOf AI Project**
-
-- 📝 And rn I'm learning about **cyber security**
+- 📝 Right Now I'm learning about **cyber security** .....
 
 
 
